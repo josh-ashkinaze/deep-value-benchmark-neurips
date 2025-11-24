@@ -1,7 +1,7 @@
 # Deep Value Benchmark
 
 ## Conceptual Overview
-![conceptual overview](blah)
+![conceptual overview](https://github.com/josh-ashkinaze/deep-value-benchmark-neurips/blob/main/fig.jpg)
 
 
 ## Cite
