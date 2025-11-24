@@ -23,7 +23,7 @@ url={https://openreview.net/forum?id=bzxlOyjWbU}
 
 Here is the [full dataset](https://www.dropbox.com/scl/fi/dhqqsc1c9q86cxpcq0r0s/dvb_all_prompts_full.json?rlkey=z0zpuakaqw7bra2lhg38bpjf5&st=2q0fauk5&dl=0) of 12k prompts. 
 
-Here is a [downsample](https://www.dropbox.com/scl/fi/4akhk9vxug1p748itz9un/dvb_extra_prompts_1k_sample.json?rlkey=3xhky9blvl1kqpl05z0iayqxd&st=mblci4lt&dl=0) of 1k prompts for quicker experimentation. We made this because the full dataset is quite big 
+Here is a [downsample](https://www.dropbox.com/scl/fi/4akhk9vxug1p748itz9un/dvb_extra_prompts_1k_sample.json?rlkey=3xhky9blvl1kqpl05z0iayqxd&st=mblci4lt&dl=0) of 1302 prompts for quicker experimentation. We made this because the full dataset is quite big 
 (in terms of questions and input tokens). However, this should be big enough for most research questions. We chose this 
 sample size to give 95\% power for an exact two-tailed binomial test, assuming an effect size of Cohen's g 
 (i.e., difference from chance) of 0.05, to determine if the DVGR differs from chance (0.5) at a significance level of 0.05. 
